@@ -1,3 +1,8 @@
+这是我基于全志a133开发板移植的lvgl v9版本的官方例程，能直接在该开发板上使用，具体过程参考我的博客文章https://blog.huangzy.xyz。标题：lvgl9的移植
+
+以下是原官方README
+
+
 # LVGL on top of Linux graphics stack
 
 Example project to use LVGL on top of Linux graphics stack.
